@@ -7,6 +7,7 @@ I'm Manish Jindal, Tech enthusiast 👨‍💻.
 <h4 align="center">
 💻 Java |  Coder  |   ✨  |  💬 connect <a href="https://www.linkedin.com/in/manish-jindal-4347241b9/">@manishjindal</a>
 </h4>
+<div style="padding: 20px 0px;"><img src="./manish.png" alt="aaaa"></div>
 <table width="100%">
   <tr>
     <td>
